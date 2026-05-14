@@ -1,16 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\osman\\source\\repos\\Bitirmeprojesi\\",
+  "WorkspaceRootPath": "C:\\Users\\osman\\OneDrive\\Belgeler\\GitHub\\loT_g-venlik_analizi\\Bitirmeprojesi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48A8406E-E24F-2AD0-0ADF-587B2AF47FA7}|Bitirmeprojesi\\Bitirmeprojesi.csproj|c:\\users\\osman\\source\\repos\\bitirmeprojesi\\bitirmeprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48A8406E-E24F-2AD0-0ADF-587B2AF47FA7}|Bitirmeprojesi\\Bitirmeprojesi.csproj|c:\\users\\osman\\onedrive\\belgeler\\github\\lot_g-venlik_analizi\\bitirmeprojesi\\bitirmeprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48A8406E-E24F-2AD0-0ADF-587B2AF47FA7}|Bitirmeprojesi\\Bitirmeprojesi.csproj|solutionrelative:bitirmeprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48A8406E-E24F-2AD0-0ADF-587B2AF47FA7}|Bitirmeprojesi\\Bitirmeprojesi.csproj|c:\\users\\osman\\source\\repos\\bitirmeprojesi\\bitirmeprojesi\\bitirmeprojesi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{48A8406E-E24F-2AD0-0ADF-587B2AF47FA7}|Bitirmeprojesi\\Bitirmeprojesi.csproj|c:\\users\\osman\\onedrive\\belgeler\\github\\lot_g-venlik_analizi\\bitirmeprojesi\\bitirmeprojesi\\bitirmeprojesi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{48A8406E-E24F-2AD0-0ADF-587B2AF47FA7}|Bitirmeprojesi\\Bitirmeprojesi.csproj|solutionrelative:bitirmeprojesi\\bitirmeprojesi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -28,9 +28,9 @@
               "DocumentIndex": 1,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAACUUAAAAAAAAAAAAABIVAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2026-04-15T16:16:52.545Z"
@@ -39,9 +39,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Bitirmeprojesi.csproj",
-              "DocumentMoniker": "C:\\Users\\osman\\source\\repos\\Bitirmeprojesi\\Bitirmeprojesi\\Bitirmeprojesi.csproj",
+              "DocumentMoniker": "C:\\Users\\osman\\OneDrive\\Belgeler\\GitHub\\loT_g-venlik_analizi\\Bitirmeprojesi\\Bitirmeprojesi\\Bitirmeprojesi.csproj",
               "RelativeDocumentMoniker": "Bitirmeprojesi\\Bitirmeprojesi.csproj",
-              "ToolTip": "C:\\Users\\osman\\source\\repos\\Bitirmeprojesi\\Bitirmeprojesi\\Bitirmeprojesi.csproj",
+              "ToolTip": "C:\\Users\\osman\\OneDrive\\Belgeler\\GitHub\\loT_g-venlik_analizi\\Bitirmeprojesi\\Bitirmeprojesi\\Bitirmeprojesi.csproj",
               "RelativeToolTip": "Bitirmeprojesi\\Bitirmeprojesi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -51,9 +51,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\osman\\source\\repos\\Bitirmeprojesi\\Bitirmeprojesi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\osman\\OneDrive\\Belgeler\\GitHub\\loT_g-venlik_analizi\\Bitirmeprojesi\\Bitirmeprojesi\\Program.cs",
               "RelativeDocumentMoniker": "Bitirmeprojesi\\Program.cs",
-              "ToolTip": "C:\\Users\\osman\\source\\repos\\Bitirmeprojesi\\Bitirmeprojesi\\Program.cs",
+              "ToolTip": "C:\\Users\\osman\\OneDrive\\Belgeler\\GitHub\\loT_g-venlik_analizi\\Bitirmeprojesi\\Bitirmeprojesi\\Program.cs",
               "RelativeToolTip": "Bitirmeprojesi\\Program.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAowEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
